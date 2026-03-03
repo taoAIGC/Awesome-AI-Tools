@@ -25,6 +25,7 @@
 - [💬 AI Chat & Social](#-ai-chat--social)
 - [🔍 AI Search Tools](#-ai-search-tools)
 - [🎯 AI Productivity Tools](#-ai-productivity-tools)
+- [🛠️ AI Development Platforms](#-ai-development-platforms)
 
 ---
 
@@ -62,6 +63,15 @@
 | **Agent Skills Context Engineering** | Comprehensive collection of agent skills for context engineering and multi-agent architectures | https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering |
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
+
+### Hot AI Tools (March 2, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Shannon** | Fully autonomous AI pentester - finds actual exploits in web apps with 96.15% success rate on XBOW Benchmark | https://github.com/KeygraphHQ/shannon |
+| **WiFi DensePose** | Turns WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without video | https://github.com/ruvnet/wifi-densepose |
+| **OpenSandbox** | Alibaba's general-purpose sandbox platform for AI applications - supports Coding Agents, GUI Agents, and RL Training | https://github.com/alibaba/OpenSandbox |
+| **Moonshine** | Fast and accurate automatic speech recognition (ASR) for edge devices | https://github.com/moonshine-ai/moonshine |
 
 ### Hot AI Tools (February 27, 2026)
 
