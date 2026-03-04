@@ -64,6 +64,14 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 3, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **AIRI** | Self-hosted Grok Companion - cyber waifu with realtime voice chat, Minecraft, Factorio playing. Web/macOS/Windows supported | https://github.com/moeru-ai/airi |
+| **learn-claude-code** | A nano Claude Code-like agent built from 0 to 1 - 12 progressive sessions from simple loop to isolated autonomous execution | https://github.com/shareAI-lab/learn-claude-code |
+| **xiaohongshu-mcp** | MCP (Model Context Protocol) for xiaohongshu.com - automation and integration | https://github.com/xpzouying/xiaohongshu-mcp |
+
 ### Hot AI Tools (March 2, 2026)
 
 | Tool | Features | Link |
