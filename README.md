@@ -64,6 +64,16 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 4, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Perplexica** | AI-powered answering engine - an AI-powered search engine that uses advanced AI to provide answers | https://github.com/ItzCrazyKns/Perplexica |
+| **Flowise** | Build AI Agents Visually - low-code/no-code platform for building custom AI agents | https://github.com/FlowiseAI/Flowise |
+| **AgentScope** | Build and run agents you can see, understand and trust - a multi-agent framework with distributed computing support | https://github.com/agentscope-ai/agentscope |
+| **ReMe** | Memory Management Kit for Agents - Remember Me, Refine Me. A comprehensive memory solution for AI agents | https://github.com/agentscope-ai/ReMe |
+| **MoneyPrinterV2** | Automate the process of making money online - AI-powered content creation and monetization tool | https://github.com/FujiwaraChoki/MoneyPrinterV2 |
+
 ### Hot AI Tools (March 3, 2026)
 
 | Tool | Features | Link |
