@@ -64,6 +64,15 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 5, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **MobileAgent** | Powerful GUI Agent Family - Multi-platform fundamental GUI agents for mobile device automation | https://github.com/X-PLUG/MobileAgent |
+| **LMCache** | Supercharge Your LLM with the Fastest KV Cache Layer - Reduce TTFT and increase throughput in long-context scenarios | https://github.com/LMCache/LMCache |
+| **Khoj** | Your AI Second Brain - Self-hostable personal AI app. Get answers from web or docs, build custom agents | https://github.com/khoj-ai/khoj |
+| **AReaL** | Lightning-Fast RL for LLM Reasoning and Agents - Simple & flexible reinforcement learning for LLM agents | https://github.com/inclusionAI/AReaL |
+
 ### Hot AI Tools (March 4, 2026)
 
 | Tool | Features | Link |
