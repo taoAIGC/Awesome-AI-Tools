@@ -91,6 +91,16 @@
 | **learn-claude-code** | A nano Claude Code-like agent built from 0 to 1 - 12 progressive sessions from simple loop to isolated autonomous execution | https://github.com/shareAI-lab/learn-claude-code |
 | **xiaohongshu-mcp** | MCP (Model Context Protocol) for xiaohongshu.com - automation and integration | https://github.com/xpzouying/xiaohongshu-mcp |
 
+### Hot AI Tools (March 6, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Qwen-Agent** | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension | https://github.com/QwenLM/Qwen-Agent |
+| **seomachine** | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content | https://github.com/TheCraigHewitt/seomachine |
+| **CyberStrikeAI** | AI-native security testing platform built in Go - integrates 100+ security tools with intelligent orchestration | https://github.com/Ed1s0nZ/CyberStrikeAI |
+| **react-grab** | Select context for coding agents directly from your website - optimize AI code generation | https://github.com/aidenybai/react-grab |
+| **webnovel-writer** | AI-powered long-form web novel writing assistant using Claude Code - supports 2 million characters | https://github.com/lingfengQAQ/webnovel-writer |
+
 ### Hot AI Tools (March 2, 2026)
 
 | Tool | Features | Link |
