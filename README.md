@@ -101,6 +101,16 @@
 | **react-grab** | Select context for coding agents directly from your website - optimize AI code generation | https://github.com/aidenybai/react-grab |
 | **webnovel-writer** | AI-powered long-form web novel writing assistant using Claude Code - supports 2 million characters | https://github.com/lingfengQAQ/webnovel-writer |
 
+### Hot AI Tools (March 7, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Superset** | IDE for the AI Agents Era - Run an army of Claude Code, Codex, and more on your machine | https://github.com/superset-sh/superset |
+| **Scrapling** | Adaptive Web Scraping framework - handles everything from single requests to full-scale crawls | https://github.com/D4Vinci/Scrapling |
+| **Codebuff** | Generate code from the terminal - AI-powered terminal code generation | https://github.com/CodebuffAI/codebuff |
+| **Hermes Agent** | The agent that grows with you - from NousResearch | https://github.com/NousResearch/hermes-agent |
+| **Markitdown** | Python tool for converting files and office documents to Markdown | https://github.com/microsoft/markitdown |
+
 ### Hot AI Tools (March 2, 2026)
 
 | Tool | Features | Link |
