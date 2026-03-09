@@ -111,6 +111,15 @@
 | **Hermes Agent** | The agent that grows with you - from NousResearch | https://github.com/NousResearch/hermes-agent |
 | **Markitdown** | Python tool for converting files and office documents to Markdown | https://github.com/microsoft/markitdown |
 
+### Hot AI Tools (March 8, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **WorldMonitor** | Real-time global intelligence dashboard - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking | https://github.com/koala73/worldmonitor |
+| **NotebookLM-py** | Unofficial Python API for Google NotebookLM - Full programmatic access to NotebookLM's features from Python or CLI | https://github.com/teng-lin/notebooklm-py |
+| **Prompt Engineering Tutorial** | Anthropic's Interactive Prompt Engineering Tutorial - Comprehensive 9-chapter course with exercises, 33000+ stars | https://github.com/anthropics/prompt-eng-interactive-tutorial |
+| **Claude Skills** | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw - engineering, marketing, product, compliance | https://github.com/alirezarezvani/claude-skills |
+
 ### Hot AI Tools (March 2, 2026)
 
 | Tool | Features | Link |
