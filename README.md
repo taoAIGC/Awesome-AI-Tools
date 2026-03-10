@@ -111,6 +111,16 @@
 | **Hermes Agent** | The agent that grows with you - from NousResearch | https://github.com/NousResearch/hermes-agent |
 | **Markitdown** | Python tool for converting files and office documents to Markdown | https://github.com/microsoft/markitdown |
 
+### Hot AI Tools (March 9, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Anthropic Skills** | Official Agent Skills from Anthropic - Public repository for building AI agent capabilities | https://github.com/anthropics/skills |
+| **RuView** | WiFi DensePose - Turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without video | https://github.com/ruvnet/RuView |
+| **MiroFish** | Simple and Universal Swarm Intelligence Engine - Predicting Anything with AI-powered collective intelligence | https://github.com/666ghj/MiroFish |
+| **WorldMonitor** | Real-time global intelligence dashboard - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking | https://github.com/koala73/worldmonitor |
+| **OpenSandbox** | Alibaba's general-purpose sandbox platform for AI applications - supports Coding Agents, GUI Agents, Agent Evaluation, and RL Training | https://github.com/alibaba/OpenSandbox |
+
 ### Hot AI Tools (March 8, 2026)
 
 | Tool | Features | Link |
