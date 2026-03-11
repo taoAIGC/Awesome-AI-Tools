@@ -64,6 +64,16 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 10, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Agency Agents** | Complete AI agency at your fingertips - from frontend wizards to Reddit community ninjas, each agent is a specialized expert with personality and proven deliverables | https://github.com/msitarzewski/agency-agents |
+| **MiroFish** | Simple and universal swarm intelligence engine, predicting anything with collective intelligence | https://github.com/666ghj/MiroFish |
+| **Hermes Agent** | The agent that grows with you - continuous learning agent framework | https://github.com/NousResearch/hermes-agent |
+| **Page Agent** | JavaScript in-page GUI agent - control web interfaces with natural language | https://github.com/alibaba/page-agent |
+| **Vane** | AI-powered answering engine with advanced search capabilities | https://github.com/ItzCrazyKns/Vane |
+
 ### Hot AI Tools (March 5, 2026)
 
 | Tool | Features | Link |
