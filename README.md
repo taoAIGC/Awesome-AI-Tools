@@ -64,6 +64,15 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 12, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **AI Hedge Fund** | An AI Hedge Fund Team - build and deploy autonomous AI agents for investment research and portfolio management | https://github.com/virattt/ai-hedge-fund |
+| **BitNet** | Official inference framework for 1-bit LLMs from Microsoft - efficient running of 1-bit trained language models | https://github.com/microsoft/BitNet |
+| **Promptfoo** | Test your prompts, agents, and RAGs - red teaming/pentesting for AI, compare GPT, Claude, Gemini, Llama performance | https://github.com/promptfoo/promptfoo |
+| **Generative AI** | Sample code and notebooks for Generative AI on Google Cloud with Gemini on Vertex AI | https://github.com/GoogleCloudPlatform/generative-ai |
+
 ### Hot AI Tools (March 10, 2026)
 
 | Tool | Features | Link |
