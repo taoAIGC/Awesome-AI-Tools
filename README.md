@@ -64,6 +64,16 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 13, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **BettaFish** | Multi-Agent Sentiment Analysis Assistant - breaks information cocoons, restores public opinion, predicts trends, assists decision making | https://github.com/666ghj/BettaFish |
+| **deer-flow** | ByteDance's open-source SuperAgent - researches, codes, and creates with sandboxes, memories, tools and subagents | https://github.com/bytedance/deer-flow |
+| **AIRI** | Self-hosted Grok Companion - cyber waifu with realtime voice chat, Minecraft, Factorio playing. Web/macOS/Windows supported | https://github.com/moeru-ai/airi |
+| **NotebookLM-py** | Unofficial Python API for Google NotebookLM - Full programmatic access to NotebookLM's features from Python or CLI | https://github.com/teng-lin/notebooklm-py |
+| **fish-speech** | SOTA Open Source TTS - high-quality text-to-speech with open weights | https://github.com/fishaudio/fish-speech |
+
 ### Hot AI Tools (March 12, 2026)
 
 | Tool | Features | Link |
