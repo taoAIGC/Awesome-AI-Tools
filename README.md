@@ -74,6 +74,14 @@
 | **NotebookLM-py** | Unofficial Python API for Google NotebookLM - Full programmatic access to NotebookLM's features from Python or CLI | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA Open Source TTS - high-quality text-to-speech with open weights | https://github.com/fishaudio/fish-speech |
 
+### Hot AI Tools (March 14, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Lightpanda Browser** | Headless browser designed for AI and automation - blazing fast, built with Zig | https://github.com/lightpanda-io/browser |
+| **OpenViking** | Open-source context database for AI Agents - unifies memory, resources, and skills through file system paradigm | https://github.com/volcengine/OpenViking |
+| **Nanochat** | The best ChatGPT that $100 can buy - from Andrej Karpathy | https://github.com/karpathy/nanochat |
+
 ### Hot AI Tools (March 12, 2026)
 
 | Tool | Features | Link |
