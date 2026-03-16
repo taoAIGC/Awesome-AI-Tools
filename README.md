@@ -74,6 +74,12 @@
 | **NotebookLM-py** | Unofficial Python API for Google NotebookLM - Full programmatic access to NotebookLM's features from Python or CLI | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA Open Source TTS - high-quality text-to-speech with open weights | https://github.com/fishaudio/fish-speech |
 
+### Hot AI Tools (March 15, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **AstrBot** | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features - can be your OpenClaw alternative | https://github.com/AstrBotDevs/AstrBot |
+
 ### Hot AI Tools (March 14, 2026)
 
 | Tool | Features | Link |
