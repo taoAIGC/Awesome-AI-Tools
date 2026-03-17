@@ -74,6 +74,16 @@
 | **NotebookLM-py** | Unofficial Python API for Google NotebookLM - Full programmatic access to NotebookLM's features from Python or CLI | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA Open Source TTS - high-quality text-to-speech with open weights | https://github.com/fishaudio/fish-speech |
 
+### Hot AI Tools (March 16, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **impeccable** | The design language that makes your AI harness better at design - provides design system components for AI agents | https://github.com/pbakaus/impeccable |
+| **Hindsight** | Agent Memory That Learns - memory system that improves over time based on agent interactions | https://github.com/vectorize-io/hindsight |
+| **Leanstral** | Open-Source foundation for trustworthy vibe-coding from Mistral AI - enables reliable AI-assisted coding | https://mistral.ai/news/leanstral |
+| **Voygr** | A better maps API for agents and AI apps - provides mapping and location services for AI applications | https://www.voygr.com |
+| **Vera CPU** | Nvidia's CPU purpose-built for Agentic AI - optimized for running AI agents efficiently | https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai |
+
 ### Hot AI Tools (March 15, 2026)
 
 | Tool | Features | Link |
