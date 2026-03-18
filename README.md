@@ -64,6 +64,15 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 18, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **GitNexus** | Zero-Server Code Intelligence Engine - client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph with a built-in Graph RAG Agent | https://github.com/abhigyanpatwari/GitNexus |
+| **deepagents** | Agent harness built with LangChain and LangGraph - equipped with planning tool, filesystem backend, and ability to spawn subagents for complex agentic tasks | https://github.com/langchain-ai/deepagents |
+| **claude-hud** | Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | https://github.com/jarrodwatts/claude-hud |
+| **Hindsight** | Agent Memory That Learns - memory system that improves over time based on agent interactions | https://github.com/vectorize-io/hindsight |
+
 ### Hot AI Tools (March 13, 2026)
 
 | Tool | Features | Link |
