@@ -72,6 +72,10 @@
 | **deepagents** | Agent harness built with LangChain and LangGraph - equipped with planning tool, filesystem backend, and ability to spawn subagents for complex agentic tasks | https://github.com/langchain-ai/deepagents |
 | **claude-hud** | Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | https://github.com/jarrodwatts/claude-hud |
 | **Hindsight** | Agent Memory That Learns - memory system that improves over time based on agent interactions | https://github.com/vectorize-io/hindsight |
+| **open-swe** | Open-source asynchronous coding agent from LangChain for long-running software tasks and parallel issue execution | https://github.com/langchain-ai/open-swe |
+| **Unsloth** | Unified local web UI for training and running open models like Qwen, DeepSeek, gpt-oss, and Gemma with lower VRAM usage | https://github.com/unslothai/unsloth |
+| **OpenShell** | NVIDIA's safe, private runtime for autonomous AI agents with stronger sandboxing, isolation, and local execution | https://github.com/NVIDIA/OpenShell |
+| **NemoClaw** | NVIDIA plugin for secure OpenClaw installation and safer agent deployment workflows | https://github.com/NVIDIA/NemoClaw |
 
 ### Hot AI Tools (March 13, 2026)
 
