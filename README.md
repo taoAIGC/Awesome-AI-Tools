@@ -64,6 +64,16 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
+### Hot AI Tools (March 19, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **OpenDataLoader PDF** | Open-source PDF parser for AI-ready data pipelines with OCR, structured extraction, and Markdown/HTML/JSON outputs | https://github.com/opendataloader-project/opendataloader-pdf |
+| **get-shit-done** | Lightweight meta-prompting, context-engineering, and spec-driven development system built for Claude Code workflows | https://github.com/gsd-build/get-shit-done |
+| **KittenTTS** | Ultra-small state-of-the-art text-to-speech models under 25MB, great for fast local or edge voice generation | https://github.com/KittenML/KittenTTS |
+| **claude-mem** | Claude Code memory plugin that captures coding sessions, compresses context, and injects relevant memories into future runs | https://github.com/thedotmack/claude-mem |
+| **godogen** | Claude Code skillset for generating complete Godot 4 game projects directly from a game description | https://github.com/htdt/godogen |
+
 ### Hot AI Tools (March 18, 2026)
 
 | Tool | Features | Link |
