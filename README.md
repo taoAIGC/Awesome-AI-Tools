@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 20, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **OpenCode** | Open-source AI coding agent for terminal, desktop, and IDE workflows with multi-session support and access to Claude, GPT, Gemini, and other providers | https://opencode.ai |
+| **TaxHacker** | Self-hosted AI accounting app that extracts data from receipts, invoices, and PDFs into a structured database with custom prompts and categorization | https://github.com/vas3k/TaxHacker |
+| **TradingAgents** | Multi-agent LLM trading framework with analyst, debate, risk, and portfolio-manager roles for research and simulated decision-making | https://github.com/TauricResearch/TradingAgents |
+| **Mistral OCR** | Document-understanding OCR API for PDFs and images with strong table, formula, multilingual, and structured-output support | https://mistral.ai/news/mistral-ocr |
+| **Sitefire** | AI visibility and GEO marketing suite that tracks brand citations across ChatGPT, Gemini, Perplexity, Claude, DeepSeek, and Grok, then suggests content actions | https://sitefire.ai |
+
 ### Open Source LLMs
 
 | Model | Parameters | Features | Link |
