@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 21, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Project N.O.M.A.D.** | Offline-first knowledge and education server with local AI chat, document upload, semantic search, and offline libraries for low-connectivity environments | https://github.com/Crosstalk-Solutions/project-nomad |
+| **PPT Agent** | Claude Code-based multi-agent workflow that researches a topic and generates Bento-grid SVG presentation slides with Gemini review | https://github.com/zengwenliang416/ppt-agent |
+| **vLLM Studio** | Desktop app for local vision-language OCR workflows that turns PDFs and images into structured markdown with layout-aware extraction | https://github.com/agentset-ai/vllm-studio |
+| **Vessel Browser** | Open-source agent-first browser runtime for persistent web agents on Linux with durable state, MCP control, and a human-supervised UI | https://github.com/unmodeled-tyler/vessel-browser |
+| **AI SDLC Scaffold** | Repository template for AI-first software development that organizes objectives, design, code, and deploy phases with agent instructions and artifacts | https://github.com/pangon/ai-sdlc-scaffold |
+
 ### Hot AI Tools (March 20, 2026)
 
 | Tool | Features | Link |
