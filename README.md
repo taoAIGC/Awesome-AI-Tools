@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 22, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **everything-claude-code** | High-signal Claude Code workflow system with reusable skills, memory patterns, security guardrails, and agent-performance optimization playbooks | https://github.com/affaan-m/everything-claude-code |
+| **browser-use** | Agent-ready browser automation framework that lets AI tools understand websites, take actions, and complete multi-step tasks online | https://github.com/browser-use/browser-use |
+| **LightRAG** | Fast retrieval-augmented generation framework focused on simpler pipelines, lower complexity, and practical graph-enhanced knowledge retrieval | https://github.com/HKUDS/LightRAG |
+| **Repomix** | Packs an entire codebase into a single AI-friendly file, making repo handoff, code review, and coding-agent context setup much easier | https://github.com/yamadashy/repomix |
+| **MCP Toolbox for Databases** | Google’s open-source MCP server for databases, giving AI agents safer and more structured access to SQL and data workflows | https://github.com/googleapis/genai-toolbox |
+
 ### Hot AI Tools (March 21, 2026)
 
 | Tool | Features | Link |
