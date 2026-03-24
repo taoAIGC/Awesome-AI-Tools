@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 23, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **n8n-mcp** | MCP server for Claude, Cursor, Windsurf, and other assistants to understand n8n nodes, docs, and workflow-building operations | https://github.com/czlonkowski/n8n-mcp |
+| **obsidian-skills** | Agent skill pack for Obsidian that teaches coding assistants to work with Markdown notes, Bases, JSON Canvas, and vault workflows | https://github.com/kepano/obsidian-skills |
+| **MiniMind** | Tiny open-source GPT training project that lets you train a ~26M-parameter language model from scratch in about two hours | https://github.com/jingyaogong/minimind |
+| **cq** | Open-source “Stack Overflow for agents” that lets coding agents persist, share, and query hard-earned knowledge across runs and teams | https://github.com/mozilla-ai/cq |
+| **DefenseClaw** | Cisco’s open-source security governance toolkit for agentic AI, focused on policy, guardrails, and safer enterprise agent workflows | https://github.com/cisco-ai-defense/defenseclaw |
+
 ### Hot AI Tools (March 22, 2026)
 
 | Tool | Features | Link |
