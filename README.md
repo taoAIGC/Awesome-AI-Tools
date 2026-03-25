@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 24, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **supermemory** | Fast, scalable memory engine and API for AI apps and agents, designed to store, retrieve, and reuse long-term context across workflows | https://github.com/supermemoryai/supermemory |
+| **last30days-skill** | Research skill for AI agents that scans Reddit, X, YouTube, Hacker News, Polymarket, and the web to build grounded summaries of recent trends | https://github.com/mvanhorn/last30days-skill |
+| **ProofShot** | Open-source CLI that gives AI coding agents visual verification, recording browser sessions, screenshots, and error reports as proof that UI work actually works | https://github.com/AmElmo/proofshot |
+| **Hypura** | Storage-tier-aware LLM inference scheduler for Apple Silicon that lets oversized models run across GPU, RAM, and NVMe instead of crashing on memory limits | https://github.com/t8/hypura |
+| **MoneyPrinterTurbo** | One-click AI short-video generator that turns a topic or keyword into scripts, visuals, subtitles, voiceover, music, and finished HD clips | https://github.com/harry0703/MoneyPrinterTurbo |
+
 ### Hot AI Tools (March 23, 2026)
 
 | Tool | Features | Link |
