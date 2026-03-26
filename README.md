@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 25, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **LiteLLM** | Open-source AI gateway and proxy server for 100+ LLM APIs with a unified OpenAI-compatible format, plus routing, guardrails, logging, and cost tracking | https://github.com/BerriAI/litellm |
+| **claude-subconscious** | Memory layer for Claude Code that gives coding agents a long-term “subconscious” for context, notes, and workflow continuity | https://github.com/letta-ai/claude-subconscious |
+| **Strix** | Open-source AI security agent that scans apps for vulnerabilities and helps developers find and fix issues faster | https://github.com/usestrix/strix |
+| **Surf** | Open-source web access layer for LLMs that lets agents browse, extract, and interact with websites programmatically | https://github.com/44za12/surf |
+| **vibe-eyes** | MCP server that lets LLM agents “see” browser-based apps and games through canvas visualization and debug signals | https://github.com/monteslu/vibe-eyes |
+
 ### Hot AI Tools (March 24, 2026)
 
 | Tool | Features | Link |
