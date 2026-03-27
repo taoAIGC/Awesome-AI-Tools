@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 26, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **oh-my-claudecode** | Teams-first multi-agent orchestration layer for Claude Code with staged pipelines, deep interviews, and cross-CLI team workflows | https://github.com/Yeachan-Heo/oh-my-claudecode |
+| **dexter** | Autonomous financial research agent that plans tasks, pulls live market data, self-validates results, and produces data-backed analysis | https://github.com/virattt/dexter |
+| **chandra** | State-of-the-art OCR model for PDFs and images that preserves layout and exports structured Markdown, HTML, and JSON across 90+ languages | https://github.com/datalab-to/chandra |
+| **insanely-fast-whisper** | On-device Whisper transcription CLI optimized with Transformers, Optimum, and Flash Attention for extremely fast speech-to-text | https://github.com/Vaibhavs10/insanely-fast-whisper |
+| **Sierra Agent Studio** | Enterprise platform for building customer-service AI agents with guardrails, memory, simulations, observability, and third-party tool integrations | https://sierra.ai |
+
 ### Hot AI Tools (March 25, 2026)
 
 | Tool | Features | Link |
