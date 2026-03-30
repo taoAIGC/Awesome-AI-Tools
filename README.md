@@ -237,6 +237,14 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 29, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **claude-howto** | Visual, example-driven Claude Code guide with copy-paste templates for workflows, agents, and reusable skills | https://github.com/luongnv89/claude-howto |
+| **VibeVoice** | Microsoft’s open-source frontier voice AI for long-form, multi-speaker speech generation and conversational audio workflows | https://github.com/microsoft/VibeVoice |
+| **Deep-Live-Cam** | Real-time face swap and one-click video deepfake tool that turns a single image into live webcam or video output | https://github.com/hacksider/Deep-Live-Cam |
+
 ### Hot AI Tools (March 26, 2026)
 
 | Tool | Features | Link |
