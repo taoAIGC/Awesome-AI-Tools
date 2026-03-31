@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 30, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **claude-code-best-practice** | Community-driven Claude Code playbook with reusable workflows, prompts, MCP patterns, hooks, and practical agentic coding tips | https://github.com/shanraisshan/claude-code-best-practice |
+| **codex-plugin-cc** | OpenAI plugin that lets Claude Code call Codex for code review, delegation, and second-opinion implementation help | https://github.com/openai/codex-plugin-cc |
+| **gsd-browser** | Native browser automation CLI for AI agents, with 60+ CDP-powered commands for navigation, interaction, screenshots, testing, and visual diffs | https://github.com/gsd-build/gsd-browser |
+| **abtop** | htop-style terminal monitor for AI coding agents that shows Claude Code and Codex sessions, tokens, context window, rate limits, and ports in real time | https://github.com/graykode/abtop |
+| **Qodo** | AI code review and verification platform focused on catching logic issues, enforcing team rules, and validating pull-request quality before merge | https://www.qodo.ai/ |
+
 ### Hot AI Tools (March 29, 2026)
 
 | Tool | Features | Link |
