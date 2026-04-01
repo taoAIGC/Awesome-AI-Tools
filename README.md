@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (March 31, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **agent-lightning** | Microsoft’s open-source trainer for AI agents that adds reinforcement learning and prompt optimization to existing LangChain, AutoGen, OpenAI Agents SDK, CrewAI, and custom agents with near-zero code changes | https://github.com/microsoft/agent-lightning |
+| **PaddleOCR** | Production-grade OCR and document parsing toolkit that turns PDFs and images into LLM-ready Markdown/JSON with 100+ language support and strong integration with RAG and agent workflows | https://github.com/PaddlePaddle/PaddleOCR |
+| **Cohere Transcribe** | Open-source 2B ASR model for enterprise speech workflows, optimized for low word error rate, strong throughput, and multilingual transcription across 14 languages | https://cohere.com/blog/transcribe |
+| **1-bit Bonsai** | Ultra-efficient 1-bit language models built for edge AI, robotics, and real-time agents, delivering tiny memory footprints with fast local inference | https://prismml.com/ |
+| **ChatDev** | Zero-code multi-agent platform for building customizable workflows such as deep research, data visualization, and 3D generation through configurable agent orchestration | https://github.com/OpenBMB/ChatDev |
+
 ### Hot AI Tools (March 30, 2026)
 
 | Tool | Features | Link |
