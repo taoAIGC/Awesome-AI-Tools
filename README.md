@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 1, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Lark CLI** | Official Lark/Feishu CLI built for humans and AI agents, covering messaging, docs, base, sheets, calendar, mail, tasks, meetings, and 19 reusable agent skills | https://github.com/larksuite/cli |
+| **OpenSpace** | Self-evolving skill engine for agents like OpenClaw, Claude Code, Codex, and Cursor that learns from real tasks, shares improvements, and reduces token costs over time | https://github.com/HKUDS/OpenSpace |
+| **DingTalk Workspace CLI** | Official DingTalk command-line workspace for humans and AI agents, with structured commands, built-in agent skills, and secure enterprise workflows | https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli |
+| **Open Multi-Agent** | Production-grade TypeScript framework for building agent teams with role-based collaboration, DAG task scheduling, shared memory, and model-agnostic orchestration | https://github.com/JackChen-me/open-multi-agent |
+| **Open Agent SDK (TypeScript)** | Open-source in-process Agent SDK for TypeScript that runs the full agent loop without a subprocess or CLI, making it easy to deploy agents in cloud, CI, and serverless environments | https://github.com/codeany-ai/open-agent-sdk-typescript |
+
 ### Hot AI Tools (March 31, 2026)
 
 | Tool | Features | Link |
