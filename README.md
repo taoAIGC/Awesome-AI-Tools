@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 2, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **oh-my-codex** | Workflow layer for OpenAI Codex CLI that adds stronger prompts, hooks, agent teams, HUDs, scoped project guidance, and persistent run state | https://github.com/Yeachan-Heo/oh-my-codex |
+| **OpenHarness** | Open-source terminal coding agent framework for any LLM, with local Ollama support, headless CI mode, permission gates, and reversible git-backed edits | https://github.com/zhijiewong/openharness |
+| **Safari MCP** | Native Safari browser automation MCP server for AI agents on macOS, with 80 tools, real logins and sessions, low overhead, and much lower CPU usage than Chrome-based setups | https://github.com/achiya-automation/safari-mcp |
+| **Orbit** | Building blocks for structured desktop workflow automation with AI, helping computer-use agents run multi-step GUI flows and extract typed outputs | https://github.com/aadya940/orbit |
+| **Roadie** | HTTP-controlled USB KVM that lets AI agents or humans view screens in a browser and send keyboard, mouse, or multi-touch input to phones, laptops, and setup screens | https://github.com/VibiumDev/roadie |
+
 ### Hot AI Tools (April 1, 2026)
 
 | Tool | Features | Link |
