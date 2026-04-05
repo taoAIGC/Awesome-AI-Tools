@@ -455,6 +455,7 @@
 | **Chrome DevTools MCP** | Control Chrome browser with AI coding agents | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI agent toolkit with coding CLI and unified LLM API | https://github.com/badlogic/pi-mono |
 | **Cursor 1.0** | Revolutionary AI IDE with enhanced agent mode and improved code generation | https://cursor.sh |
+| **Goose** | Open-source, extensible AI agent that can install dependencies, execute commands, edit files, and test code with any LLM | https://github.com/block/goose |
 
 ---
 
@@ -500,6 +501,8 @@
 | **Limecube** | AI-powered website builder, SEO-ready | https://www.limecube.ai |
 | **Trickle Magic Canvas** | World's 1st agentic canvas for co-creating with AI | https://trickle.us/magic-canvas |
 | **Rowboat** | Open-source AI coworker with memory - builds knowledge graph from email and meetings | https://github.com/rowboatlabs/rowboat |
+| **Onyx** | Open-source workplace AI assistant that connects docs, apps, and chat across multiple LLMs | https://github.com/onyx-dot-app/onyx |
+| **DocMason** | Agent knowledge base for complex local Office files, turning document-heavy workflows into searchable AI context | https://github.com/jetxu-llm/docmason |
 
 ### Data Analysis
 
@@ -529,6 +532,8 @@
 | **summarize** | Get gist of any URL/YouTube/Podcast or file - CLI and Chrome Extension | https://github.com/steipete/summarize |
 | **OpenBB** | Financial data platform for analysts, quants and AI agents | https://github.com/OpenBB-finance/OpenBB |
 | **Cloudflare Agents** | Build and deploy AI agents on Cloudflare's global network | https://developers.cloudflare.com/agents |
+| **Microsoft Agent Framework** | Microsoft's open-source framework for building, orchestrating, and deploying AI agents and multi-agent workflows in Python and .NET | https://github.com/microsoft/agent-framework |
+| **MLX-VLM** | MLX package for running and fine-tuning vision-language models locally on Apple Silicon Macs | https://github.com/Blaizzy/mlx-vlm |
 
 ### AI Coding & Development
 
