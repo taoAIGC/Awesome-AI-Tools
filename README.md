@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 5, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **OpenManus** | Open-source general AI agent framework inspired by Manus, built for autonomous multi-step task execution with tool use and planning | https://github.com/FoundationAgents/OpenManus |
+| **Oumi** | Open-source platform to fine-tune, evaluate, and deploy LLMs and VLMs such as GPT-OSS, Qwen3, and DeepSeek-R1 with a unified workflow | https://github.com/oumi-ai/oumi |
+| **NanoBrowser** | Open-source Chrome extension for AI-powered web automation that runs multi-agent browser workflows using your own LLM API key | https://github.com/nanobrowser/nanobrowser |
+| **Google AI Edge Gallery** | On-device AI app gallery from Google AI Edge that lets users try GenAI and ML use cases and run supported models locally | https://github.com/google-ai-edge/gallery |
+| **OpenMemory** | Local persistent memory store for LLM apps like Claude Desktop, GitHub Copilot, Codex, and other agents that need reusable context | https://github.com/CaviraOSS/OpenMemory |
+
 ### Hot AI Tools (April 2, 2026)
 
 | Tool | Features | Link |
