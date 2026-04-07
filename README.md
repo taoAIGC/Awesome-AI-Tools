@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 6, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **LiteRT-LM** | Google's open-source on-device LLM inference framework for Android, iOS, Web, desktop, and edge devices, with GPU/NPU acceleration, multimodal input support, and function calling | https://github.com/google-ai-edge/LiteRT-LM |
+| **PersonaPlex** | NVIDIA's real-time full-duplex speech-to-speech model for low-latency voice agents, with persona control through role prompts and voice conditioning | https://github.com/NVIDIA/personaplex |
+| **Freestyle** | Agent infrastructure platform built for running coding agents in full Linux VMs, with repo sync, webhooks, deployments, and large-scale sandbox management | https://www.freestyle.sh/ |
+| **Gemma Gem** | Browser-native AI assistant extension that runs Gemma 4 fully on-device via WebGPU, letting users read pages, answer questions, and take actions without cloud APIs | https://github.com/kessler/gemma-gem |
+| **Hippo Memory** | Biologically inspired memory system for CLI agents like Claude Code, Codex, Cursor, and OpenClaw, with decay, consolidation, recall, and portable Markdown-backed memory | https://github.com/kitfunso/hippo-memory |
+
 ### Hot AI Tools (April 5, 2026)
 
 | Tool | Features | Link |
