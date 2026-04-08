@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 7, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **auto-deep-researcher-24x7** | Autonomous AI research agent for deep learning experiments that can run training, evaluation, monitoring, and coordination around the clock with a leader-worker architecture and fixed-size memory | https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7 |
+| **Learn-Open-Harness** | Official interactive tutorial for OpenHarness with 12 hands-on chapters covering agent loops, tools, memory, and multi-agent workflows for coding assistants | https://github.com/joyehuang/Learn-Open-Harness |
+| **styleseed** | One-file UI/UX design skill for Claude Code that helps AI-generated interfaces look more polished with better layout, spacing, and visual patterns | https://github.com/bitjaru/styleseed |
+| **MindAct** | Autonomous AI agent framework that combines agent planning with domain-specific knowledge so assistants can reason and act more effectively in specialized scenarios | https://github.com/KeploreAI-Lab/MindAct |
+| **claude-obsidian** | Claude and Obsidian knowledge companion that builds a persistent wiki-style vault with commands like /wiki, /save, and /autoresearch for compounding long-term context | https://github.com/AgriciDaniel/claude-obsidian |
+
 ### Hot AI Tools (April 6, 2026)
 
 | Tool | Features | Link |
