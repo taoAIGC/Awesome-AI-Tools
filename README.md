@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 8, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **n8n** | Workflow automation platform with native AI capabilities, combining visual builders, custom code, 400+ integrations, and self-hosting for agentic and business automations | https://github.com/n8n-io/n8n |
+| **Qdrant** | High-performance vector database and vector search engine for next-generation AI applications, built for semantic search, filtering, recommendation, and large-scale embedding retrieval | https://github.com/qdrant/qdrant |
+| **Composer** | Architecture diagramming and system design tool that connects to AI coding agents via MCP to generate codebase diagrams and co-design systems from natural language | https://www.usecomposer.com/ |
+| **Poke** | Consumer-friendly AI agent that works over iMessage, SMS, Telegram, and WhatsApp-style messaging, turning plain-text requests into reusable automations and personal assistant workflows | https://poke.com/ |
+| **Workbench** | Remote desktop tool for the AI era, built to monitor and control Mac-based AI agents from iPhone, iPad, or another Mac with high-fidelity streaming and mobile-friendly access | https://astropad.com/product/workbench/ |
+
 ### Hot AI Tools (April 7, 2026)
 
 | Tool | Features | Link |
