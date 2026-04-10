@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 9, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Archon** | Open-source harness builder for AI coding that helps teams make agentic development workflows more deterministic, repeatable, and production-friendly | https://github.com/coleam00/Archon |
+| **DeepTutor** | Agent-native personalized learning assistant that turns AI tutoring into structured study, reasoning, and research support workflows | https://github.com/HKUDS/DeepTutor |
+| **VoxCPM** | Tokenizer-free multilingual text-to-speech model for speech generation, creative voice design, and realistic voice cloning | https://github.com/OpenBMB/VoxCPM |
+| **GitHub Copilot CLI** | Terminal-first coding agent from GitHub that brings Copilot workflows to the command line, including review, generation, and cross-model assistance | https://github.com/github/copilot-cli |
+| **claudian** | Obsidian plugin that embeds Claude Code directly inside your vault, turning notes and files into a workspace for AI-assisted thinking and editing | https://github.com/YishenTu/claudian |
+
 ### Hot AI Tools (April 8, 2026)
 
 | Tool | Features | Link |
