@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 10, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Multica** | Open-source managed agents platform that turns coding agents into teammates with task assignment, progress tracking, reusable skills, and support for Claude Code, Codex, OpenClaw, and OpenCode | https://github.com/multica-ai/multica |
+| **Twill** | Cloud coding agents service that lets developers delegate engineering tasks and get pull requests back while the agents work asynchronously in the cloud | https://twill.ai/ |
+| **ChatLab** | Local-first desktop app that imports chat histories from WhatsApp, LINE, WeChat, Discord, Telegram, and more, then uses AI agents to analyze patterns, summarize conversations, and surface insights | https://github.com/hellodigua/ChatLab |
+| **Skills Hub** | Cross-platform desktop manager for Agent Skills that installs once and syncs skill packs across Claude Code, Codex, OpenClaw, Cursor, Gemini CLI, and many other AI coding tools | https://github.com/qufei1993/skills-hub |
+| **Git AI** | Git extension for tracking AI-generated code, attributing lines to agents and models, and preserving the prompts, transcripts, and decision context behind commits | https://github.com/git-ai-project/git-ai |
+
 ### Hot AI Tools (April 9, 2026)
 
 | Tool | Features | Link |
