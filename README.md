@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 11, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **MemPalace** | Open-source local AI memory system that stores full verbatim conversations, adds MCP tools, and helps agents retrieve long-term context without external services | https://github.com/MemPalace/mempalace |
+| **caveman** | Viral Claude Code skill that compresses assistant verbosity into a token-saving “caveman” style, reducing cost and context usage during coding sessions | https://github.com/JuliusBrussee/caveman |
+| **Career-Ops** | Open-source multi-agent job search system built on Claude Code with sourcing, company research, scoring workflows, dashboarding, and PDF generation | https://github.com/santifer/career-ops |
+| **Graphify** | Multimodal knowledge-graph builder for coding assistants that turns code, docs, PDFs, screenshots, videos, and notes into a queryable project graph | https://github.com/safishamsi/graphify |
+| **CodeSight** | Zero-dependency AI context generator that scans frameworks, ORMs, and project structure so coding assistants understand repositories faster in one command | https://github.com/Houseofmvps/codesight |
+
 ### Hot AI Tools (April 10, 2026)
 
 | Tool | Features | Link |
