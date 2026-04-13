@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 12, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Kronos** | Foundation model for financial markets that treats price series like language, enabling forecasting, analysis, and quantitative research workflows with AI-native time-series modeling | https://github.com/shiyu-coder/Kronos |
+| **BlenderMCP** | MCP bridge that lets Claude and other AI assistants control Blender for prompt-driven 3D modeling, scene editing, asset retrieval, and Python-based automation | https://github.com/ahujasid/blender-mcp |
+| **agent-inbox** | MCP server that gives AI agents disposable real email inboxes, so they can complete sign-up, verification, and auth flows without human hand-holding | https://github.com/gsd-build/agent-inbox |
+| **Litmus** | Python-first AI testing toolkit for prompt unit tests, model comparisons, regression checks, and cost optimization across OpenAI, Anthropic, Google, and Hugging Face models | https://github.com/litmus4ai/litmus |
+| **MindVault** | Long-term memory layer for AI coding tools that turns a codebase into a knowledge graph, wiki, and search index, helping agents recover context across sessions | https://github.com/etinpres/mindvault |
+
 ### Hot AI Tools (April 11, 2026)
 
 | Tool | Features | Link |
