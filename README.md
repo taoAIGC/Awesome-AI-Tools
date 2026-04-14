@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 13, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Nocturne Memory** | Lightweight long-term memory server for MCP agents with rollbackable, visual, graph-like memory across models, sessions, and tools | https://github.com/Dataojitori/nocturne_memory |
+| **GEOFlow** | Open-source GEO content production system that combines AI task execution, human review workflows, and publishing pipelines for search-first content teams | https://github.com/yaojingang/GEOFlow |
+| **obscura** | Headless browser for AI agents and web scraping, built for browser automation workflows that need reliable programmatic control | https://github.com/h4ckf0r0day/obscura |
+| **darwin-skill** | Autonomous Claude Code skill optimizer that evaluates, improves, tests, and keeps or reverts skills based on measurable results | https://github.com/alchaincyf/darwin-skill |
+| **AgentsView** | Local-first desktop and web app for browsing, searching, and analyzing AI coding sessions across Claude Code, Codex, Gemini, Copilot, and more | https://github.com/wesm/agentsview |
+
 ### Hot AI Tools (April 12, 2026)
 
 | Tool | Features | Link |
