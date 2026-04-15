@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 14, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **LangAlpha** | Finance-focused agent harness that brings Claude Code-style persistent workspaces, subagents, financial data tooling, automations, and visual research UI to investment workflows | https://github.com/ginlix-ai/langalpha |
+| **Kontext CLI** | Open-source CLI that launches AI coding agents with short-lived scoped credentials, governance hooks, and audit-friendly access to services like GitHub and Stripe | https://github.com/kontext-security/kontext-cli |
+| **LLM Wiki** | Cross-platform desktop app that incrementally turns documents into a persistent wiki-style knowledge base with graph insights, Deep Research, and Obsidian-compatible outputs | https://github.com/nashsu/llm_wiki |
+| **codeburn** | Interactive TUI dashboard for Claude Code and Codex that reads local transcripts, breaks down tokens and cost by task, tool, and model, and shows one-shot success rates | https://github.com/AgentSeal/codeburn |
+| **MOSS-TTS-Nano** | Tiny 0.1B multilingual TTS model for realtime speech generation and voice cloning, designed to run on CPU with low latency and simple local deployment | https://github.com/OpenMOSS/MOSS-TTS-Nano |
+
 ### Hot AI Tools (April 13, 2026)
 
 | Tool | Features | Link |
