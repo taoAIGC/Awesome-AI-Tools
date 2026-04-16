@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 15, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Open Agents** | Open-source reference app for building and running background coding agents on Vercel, with a web UI, durable workflows, sandbox VMs, and GitHub PR automation | https://github.com/vercel-labs/open-agents |
+| **Voicebox** | Local-first open-source voice synthesis studio for voice cloning, multilingual TTS, audio effects, and timeline-based voice production | https://github.com/jamiepine/voicebox |
+| **Libretto** | Browser automation toolkit for coding agents that can inspect live pages, capture network traffic, record workflows, and convert brittle UI steps into robust automations | https://github.com/saffron-health/libretto |
+| **ChatGPT for Excel** | Official Excel add-in that lets ChatGPT build, analyze, and update spreadsheets in natural language while preserving formulas and formatting | https://chatgpt.com/apps/spreadsheets/ |
+| **NVIDIA Ising** | Open AI model family for quantum computing that automates processor calibration and error-correction decoding with reusable models, data, and training tools | https://www.nvidia.com/en-us/solutions/quantum-computing/ising/ |
+
 ### Hot AI Tools (April 14, 2026)
 
 | Tool | Features | Link |
