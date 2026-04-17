@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 16, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **GenericAgent** | Self-evolving open-source agent that grows a skill tree from a small seed prompt, aiming for stronger autonomous execution with much lower token usage | https://github.com/lsdefine/GenericAgent |
+| **cognee** | Lightweight memory engine for AI agents that turns knowledge ingestion, retrieval, and graph-style memory into just a few lines of code | https://github.com/topoteretes/cognee |
+| **Claude Opus 4.7** | Anthropic’s newest flagship model with better long-running coding, stronger instruction following, higher-resolution vision, and more reliable self-checking on complex tasks | https://www.anthropic.com/news/claude-opus-4-7 |
+| **Qwen3.6-35B-A3B** | Open Qwen model focused on agentic coding workflows, bringing stronger coding performance and broader availability for local or platform-based use | https://qwen.ai/blog?id=qwen3.6-35b-a3b |
+| **Android CLI** | Google’s refreshed terminal-first Android development toolkit for AI agents, with project creation, SDK setup, emulator control, and official Android skills for better agent workflows | https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html |
+
 ### Hot AI Tools (April 15, 2026)
 
 | Tool | Features | Link |
