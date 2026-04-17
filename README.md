@@ -623,6 +623,8 @@
 | **Rowboat** | Open-source AI coworker with memory - builds knowledge graph from email and meetings | https://github.com/rowboatlabs/rowboat |
 | **Onyx** | Open-source workplace AI assistant that connects docs, apps, and chat across multiple LLMs | https://github.com/onyx-dot-app/onyx |
 | **DocMason** | Agent knowledge base for complex local Office files, turning document-heavy workflows into searchable AI context | https://github.com/jetxu-llm/docmason |
+| MindMap AI | AI-powered tool that converts documents, PDFs, and research into structured visual mind maps for idea organization, planning, and productivity | https://mindmapai.app/text-summarizer |
+
 
 ### Data Analysis
 
