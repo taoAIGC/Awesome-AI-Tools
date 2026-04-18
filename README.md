@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 17, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **evolver** | Self-evolution engine for AI agents powered by a genome evolution protocol, designed to grow new skills over time with strong autonomy and lower token cost | https://github.com/EvoMap/evolver |
+| **omi** | Open-source AI wearable and desktop assistant that can see your screen, listen to conversations, and surface contextual guidance in real time | https://github.com/BasedHardware/omi |
+| **OpenSRE** | Open-source toolkit for building AI SRE agents that automate observability, troubleshooting, and operations workflows | https://github.com/Tracer-Cloud/opensre |
+| **Claude Design** | Anthropic Labs’ new AI design workspace for creating prototypes, slides, landing pages, and branded visual assets through conversation | https://www.anthropic.com/news/claude-design-anthropic-labs |
+| **cogveo** | AI workspace platform with file-aware Claude chat, reusable skills, scheduled runs, and downloadable outputs for team workflows | https://cogveo.com |
+
 ### Hot AI Tools (April 16, 2026)
 
 | Tool | Features | Link |
