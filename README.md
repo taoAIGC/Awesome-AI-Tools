@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 18, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Thunderbolt** | Open-source cross-platform AI client for web, desktop, and mobile that lets teams bring their own frontier, local, or on-prem models while keeping data under their control | https://github.com/thunderbird/thunderbolt |
+| **OpenAI Agents SDK** | Lightweight, provider-agnostic framework for multi-agent workflows with tools, handoffs, sessions, tracing, guardrails, sandbox agents, and realtime voice support | https://github.com/openai/openai-agents-python |
+| **ApplyPilot** | Self-hosted AI job-search copilot that orchestrates multiple agents to analyze roles, tailor resumes and cover letters, prep interviews, and track applications locally | https://github.com/eliornl/applypilot |
+| **SmolVM** | Open-source microVM runtime that gives AI agents disposable isolated computers for safe code execution, browser sessions, host mounts, network controls, and snapshots | https://github.com/CelestoAI/SmolVM |
+| **DOMPrompter** | macOS visual bridge for AI coding tools that lets you click DOM elements, capture CSS diffs, and generate structured prompts for Cursor, Claude Code, Codex, and more | https://github.com/hooosberg/DOMPrompter |
+
 ### Hot AI Tools (April 17, 2026)
 
 | Tool | Features | Link |
