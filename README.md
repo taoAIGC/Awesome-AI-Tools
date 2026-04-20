@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 19, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Claude-Code-Game-Studios** | Open-source game-development operating system for Claude Code with 49 specialized agents, 72 workflow skills, quality gates, and studio-style coordination from ideation to launch | https://github.com/Donchitos/Claude-Code-Game-Studios |
+| **cc-design** | High-fidelity HTML design skill for Claude Code and Codex-style agents that turns prompts into landing pages, slide decks, UI mockups, and interactive prototypes with verification and export workflows | https://github.com/ZeroZ-lab/cc-design |
+| **agents-md** | Drop-in AGENTS.md starter that makes coding agents behave more like senior engineers by enforcing verification loops, tighter diffs, and reusable project instructions | https://github.com/TheRealSeanDonahoe/agents-md |
+| **agentjail** | Minimal Linux sandbox for AI agents that runs untrusted code with rootless isolation, network controls, cgroups limits, seccomp filtering, snapshots, and persistent workspaces | https://github.com/bugthesystem/agentjail |
+| **Auxx.Ai** | Open-source AI customer-support CRM that connects email and messaging channels to automate ticket classification, routing, replies, and workflow actions for small businesses | https://auxx.ai |
+
 ### Hot AI Tools (April 18, 2026)
 
 | Tool | Features | Link |
