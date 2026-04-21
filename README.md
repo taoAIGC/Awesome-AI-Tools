@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 20, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Qwen3.6-Max-Preview** | Alibaba’s latest preview model focused on stronger reasoning, coding, and agentic tool use, giving developers a sharper all-purpose model for chat, programming, and research workflows | https://qwen.ai/blog?id=qwen3.6-max-preview |
+| **MCPfinder** | AI-first MCP server discovery tool that searches major registries, surfaces trust signals and required environment variables, and generates ready-to-use install configs for Claude, Cursor, Claude Code, Cline, and Windsurf | https://mcpfinder.dev/ |
+| **Mercury Agent** | Permission-hardened personal AI agent that runs 24/7 from the CLI or Telegram, with approval gates, token budgets, built-in tools, and extensible skills for safer everyday automation | https://github.com/cosmicstack-labs/mercury-agent |
+| **TRELLIS.2 for Apple Silicon** | Native Mac port of Microsoft’s TRELLIS.2 image-to-3D model, making it possible to generate textured 3D assets locally on Apple Silicon without an NVIDIA GPU | https://github.com/shivampkumar/trellis-mac |
+| **HiKid** | Fully local desktop AI English tutor for kids, combining voice chat, listening practice, storytelling, and offline on-device inference to protect privacy while teaching | https://github.com/xiaochong/hi-kid |
+
 ### Hot AI Tools (April 19, 2026)
 
 | Tool | Features | Link |
