@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 21, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Claude Context** | Semantic code-search MCP for Claude Code and other coding agents that turns large codebases into searchable context, pulling only the most relevant code into prompts to keep cost and noise down | https://github.com/zilliztech/claude-context |
+| **planning-with-files** | Manus-style persistent Markdown planning skill that stores plans, todos, and execution state in files so Claude Code, OpenClaw, and similar agents can stay organized across long-running tasks | https://github.com/OthmanAdi/planning-with-files |
+| **Kimi Code CLI** | Moonshot AI’s terminal coding agent that can read and edit code, run shell commands, fetch web pages, support MCP, and plug into IDEs through ACP and a VS Code extension | https://github.com/MoonshotAI/kimi-cli |
+| **GoModel** | High-performance AI gateway written in Go that offers a unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, and more, with observability, guardrails, and streaming built in | https://github.com/ENTERPILOT/GoModel |
+| **Cisco AI Agent Security Scanner** | VS Code extension for scanning MCP servers, agent skills, and AI-generated code for prompt injection, data exfiltration, and supply-chain risks, while injecting secure-coding rules into agent workflows | https://marketplace.visualstudio.com/items?itemName=Cisco-AI.cisco-ai-security-scanner |
+
 ### Hot AI Tools (April 20, 2026)
 
 | Tool | Features | Link |
