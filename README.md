@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 22, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **OpenAI Workspace Agents** | Shared cloud agents in ChatGPT for teams that can run long workflows, connect business apps, use memory, ask for approvals, and keep working in ChatGPT or Slack under admin controls | https://openai.com/index/introducing-workspace-agents-in-chatgpt/ |
+| **Vercel Skills** | Open-source agent-skills installer and discovery tool that lets developers browse, install, and sync reusable skills for Claude Code, Codex, OpenClaw, and other agent tools with a simple `npx skills` workflow | https://github.com/vercel-labs/skills |
+| **TrendRadar** | AI-driven trend and public-opinion monitor that aggregates multi-platform hot topics, RSS feeds, keyword filters, AI summaries, translations, and smart alerts across messaging channels | https://github.com/sansan0/TrendRadar |
+| **Pixelle-Video** | Fully automated AI short-video engine that helps creators turn ideas into end-to-end video workflows with scripting, media generation, and publishing automation | https://github.com/AIDC-AI/Pixelle-Video |
+| **Langfuse** | Open-source LLM engineering platform for observability, evals, prompt management, datasets, and metrics, making it easier to monitor and improve AI products in production | https://github.com/langfuse/langfuse |
+
 ### Hot AI Tools (April 21, 2026)
 
 | Tool | Features | Link |
