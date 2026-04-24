@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 23, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **ml-intern** | Hugging Face’s open-source ML engineer that reads papers, runs post-training experiments, and ships models through automated research, training, and evaluation workflows | https://github.com/huggingface/ml-intern |
+| **Open Notebook** | Open-source private NotebookLM alternative that turns documents, links, and notes into searchable AI notebooks with more flexible analysis and knowledge workflows | https://github.com/lfnovo/open-notebook |
+| **RAG-Anything** | All-in-one multimodal RAG framework that unifies text, images, tables, formulas, and knowledge graphs for richer retrieval and question-answering pipelines | https://github.com/HKUDS/RAG-Anything |
+| **context-mode** | Context-window optimization layer for AI coding agents that sandboxes noisy tool output and compresses context to cut token usage dramatically | https://github.com/mksglu/context-mode |
+| **RTK** | High-performance Rust CLI proxy for AI coding agents that wraps common dev commands, summarizes output, and reduces token consumption in terminal workflows | https://github.com/rtk-ai/rtk |
+
 ### Hot AI Tools (April 22, 2026)
 
 | Tool | Features | Link |
