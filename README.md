@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 24, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **free-claude-code** | Community-driven wrapper that helps developers use Claude Code for free in the terminal, VS Code, or Discord-style workflows, making coding-agent access more approachable for experiments and daily use | https://github.com/Alishahryar1/free-claude-code |
+| **Open-Generative-AI** | Open-source self-hosted AI image and video generation studio with 200+ models and broader creative freedom, positioned as a flexible alternative to closed creative AI suites | https://github.com/Anil-matcha/Open-Generative-AI |
+| **Browser Harness** | Self-healing browser harness built directly on CDP that lets LLMs operate a real browser, add missing helpers mid-task, and complete browser automation with fewer rigid scripts | https://github.com/browser-use/browser-harness |
+| **CC-Canary** | Drift-detection skillset for Claude Code that analyzes local JSONL session logs, spots regressions over time, and generates shareable forensic markdown or HTML reports without telemetry | https://github.com/delta-hq/cc-canary |
+| **ESP-Claw** | Espressif's chat-coding AI agent framework for IoT devices, bringing agent-style development workflows to ESP hardware projects and embedded software tasks | https://github.com/espressif/esp-claw |
+
 ### Hot AI Tools (April 23, 2026)
 
 | Tool | Features | Link |
