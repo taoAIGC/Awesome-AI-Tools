@@ -613,6 +613,7 @@
 | Suno | AI music generation | https://suno.ai |
 | Udio | AI music creation | https://udio.com |
 | iFlyRec | Speech-to-text | https://www.iflyrec.com |
+| AnveVoice | Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier. | https://anvevoice.app |
 
 ---
 
