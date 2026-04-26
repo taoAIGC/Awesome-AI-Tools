@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 25, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Roo-Code** | Open-source AI coding teammate for the editor that gives developers a whole team of agents inside the IDE, making multi-step coding, debugging, and task delegation easier | https://github.com/RooCodeInc/Roo-Code |
+| **claude-code-templates** | High-traction CLI toolkit for configuring, templating, and monitoring Claude Code setups, helpful for teams standardizing agent workflows and reusable project scaffolds | https://github.com/davila7/claude-code-templates |
+| **DeepEP** | Efficient expert-parallel communication library from DeepSeek for MoE training and inference, aimed at higher-throughput large-model systems and agent backends | https://github.com/deepseek-ai/DeepEP |
+| **ds2api** | Lightweight DeepSeek-to-universal-API middleware that translates client protocols into OpenAI-, Claude-, and Google-compatible interfaces with multi-account rotation and simple deployment options | https://github.com/CJackHwang/ds2api |
+| **awesome-codex-skills** | Curated collection of practical Codex skills for workflow automation across the Codex CLI and API, useful for rapidly extending coding-agent capabilities | https://github.com/ComposioHQ/awesome-codex-skills |
+
 ### Hot AI Tools (April 24, 2026)
 
 | Tool | Features | Link |
