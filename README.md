@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 26, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **skills** | Viral agent-skills pack from Matt Pocock that bundles production-minded workflows for planning, issue breakdown, TDD, refactors, and other real engineering tasks for Claude Code-style agents | https://github.com/mattpocock/skills |
+| **cua** | Open-source computer-use agent stack with sandboxes, SDKs, and benchmarks for building, evaluating, and deploying agents that can operate full desktops across macOS, Linux, and Windows | https://github.com/trycua/cua |
+| **beads** | High-traction memory upgrade for coding agents that improves context retention, recall, and continuity across long-running development and debugging workflows | https://github.com/gastownhall/beads |
+| **future-agi** | End-to-end platform for tracing, evals, simulations, datasets, gateways, and guardrails, aimed at teams building, observing, and improving LLM or AI-agent applications | https://github.com/future-agi/future-agi |
+| **text-to-cad** | Open-source text-to-CAD harness that turns natural-language prompts into CAD models, useful for makers, hardware prototyping, and AI-assisted 3D design workflows | https://github.com/earthtojake/text-to-cad |
+
 ### Hot AI Tools (April 25, 2026)
 
 | Tool | Features | Link |
