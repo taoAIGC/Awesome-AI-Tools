@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 27, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Symphony** | OpenAI's open-source Codex orchestration spec for coordinating coding agents, handoffs, plans, and long-running software tasks across more structured multi-agent workflows | https://openai.com/index/open-source-codex-orchestration-symphony/ |
+| **stash** | Persistent memory layer for AI agents that stores episodes, facts, and working context in Postgres, with an MCP server for self-hosted long-term recall | https://github.com/alash3al/stash |
+| **harmonist** | Portable AI-agent orchestration framework with mechanical protocol enforcement, designed to coordinate large multi-agent systems with minimal runtime overhead | https://github.com/GammaLabTechnologies/harmonist |
+| **freellmapi** | OpenAI-compatible proxy that pools free-tier keys from multiple AI providers with automatic failover, useful for lightweight experiments and multi-provider testing | https://github.com/tashfeenahmed/freellmapi |
+| **Hy3-preview** | Tencent Hunyuan's preview reasoning-and-agent model that aims for strong capability-to-cost efficiency, suitable for agentic tasks and general LLM experimentation | https://github.com/Tencent-Hunyuan/Hy3-preview |
+
 ### Hot AI Tools (April 26, 2026)
 
 | Tool | Features | Link |
