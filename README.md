@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 28, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Nemotron 3 Nano Omni** | NVIDIA’s new compact multimodal model for AI agents, unifying vision, audio, and language with much lower serving cost for realtime assistant and agent workflows | https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/ |
+| **Laguna XS.2 and M.1** | Poolside’s new model duo for code generation and reasoning-heavy software tasks, aimed at stronger long-horizon agentic coding performance | https://poolside.ai/blog/laguna-a-deeper-dive |
+| **ace-step-ui** | Open-source professional UI for ACE-Step 1.5 AI music generation, offering a polished local alternative to Suno-style music creation workflows | https://github.com/fspecii/ace-step-ui |
+| **bux** | 24/7 Claude Code agent from browser-use that combines persistent agent execution with Browser Harness, useful for always-on browser automation on your own machine | https://github.com/browser-use/bux |
+| **BYOB** | “Bring Your Own Browser” lets AI agents control the Chrome session you already have open, reducing setup friction for browser-driven agent tasks | https://github.com/wxtsky/byob |
+
 ### Hot AI Tools (April 27, 2026)
 
 | Tool | Features | Link |
