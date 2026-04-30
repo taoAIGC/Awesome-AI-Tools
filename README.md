@@ -237,6 +237,15 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (April 29, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Warp** | Open-source agentic development environment that combines a modern terminal with cloud agent orchestration for parallel coding workflows | https://github.com/warpdotdev/warp |
+| **jcode** | Next-generation coding agent harness built for multi-session workflows, deep customization, and high-performance terminal use | https://github.com/1jehuang/jcode |
+| **Craft Agents** | Open-source document-centric agent workspace from Craft that supports intuitive multitasking, shared sessions, and fluid UI-first agent workflows | https://github.com/lukilabs/craft-agents-oss |
+| **daily_stock_analysis** | LLM-powered A/H/US stock analysis system that combines market data, real-time news, AI dashboards, and multi-channel scheduled delivery | https://github.com/ZhuLinsen/daily_stock_analysis |
+
 ### Hot AI Tools (April 28, 2026)
 
 | Tool | Features | Link |
