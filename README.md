@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (May 1, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **browserbase/skills** | Browser-aware Claude agent SDK that bundles reusable web-browsing skills, making it easier to inspect pages, automate flows, and build browser-native AI agents | https://github.com/browserbase/skills |
+| **mike** | Open-source AI legal platform for drafting, research, and legal workflow automation, with strong early GitHub traction among vertical AI tools | https://github.com/willchen96/mike |
+| **chromex** | Codex-powered Chrome side-panel assistant that understands page context, tabs, voice, and image workflows for in-browser productivity | https://github.com/GENEXIS-AI/chromex |
+| **gpt-image-canvas** | Local professional AI canvas built on tldraw, designed for visual ideation, prompt-based image creation, and lightweight creative editing | https://github.com/mrslimslim/gpt-image-canvas |
+| **composio** | Multi-provider agent-tools SDK with MCP support, OAuth, and composable actions, useful for connecting AI agents to real apps and workflows | https://github.com/warpdot-dev/composio |
+
 ### Hot AI Tools (April 29, 2026)
 
 | Tool | Features | Link |
