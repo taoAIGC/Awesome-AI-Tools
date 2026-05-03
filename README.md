@@ -237,6 +237,16 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+### Hot AI Tools (May 2, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Open Design** | Local-first open-source alternative to Claude Design with reusable design systems, multimodal prototype generation, and export to HTML, PDF, PPTX, and video | https://github.com/nexu-io/open-design |
+| **Guizang PPT Skill** | Claude Code skill that turns prompts into magazine-style HTML slide decks with curated layouts, themes, and polished presentation visuals | https://github.com/op7418/guizang-ppt-skill |
+| **Garden Skills** | Fast-growing open-source skills collection for web design, knowledge retrieval, image generation, and other practical agent workflows | https://github.com/ConardLi/garden-skills |
+| **agent-desktop** | Native desktop automation CLI for AI agents that controls any app through OS accessibility trees with structured JSON output and stable element references | https://github.com/lahfir/agent-desktop |
+| **Governor** | Claude Code usage governor focused on slimmer context, filtered tool output, telemetry, and drift guardrails for longer coding sessions | https://github.com/0xhimanshu/governor |
+
 ### Hot AI Tools (May 1, 2026)
 
 | Tool | Features | Link |
