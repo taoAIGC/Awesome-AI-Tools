@@ -237,6 +237,17 @@
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 | **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
+
+### Hot AI Tools (May 3, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Gemini CLI** | Google's open-source terminal AI agent that brings Gemini into local CLI workflows, with strong momentum across GitHub and developer news coverage | https://github.com/google-gemini/gemini-cli |
+| **DeepClaude** | Claude Code-compatible autonomous agent loop that swaps in DeepSeek V4 Pro or other Anthropic-compatible backends for much cheaper coding workflows | https://github.com/aattaran/deepclaude |
+| **DeepSeek-TUI** | Fast-growing terminal coding agent for DeepSeek models, designed for lightweight local-first developer workflows with a clean TUI experience | https://github.com/Hmbown/DeepSeek-TUI |
+| **Semble** | Agent-oriented code search tool that uses dramatically fewer tokens than grep-plus-read workflows while staying fast and accurate on large repos | https://github.com/MinishLab/semble |
+| **Ableton Live MCP** | MCP bridge for Ableton Live that lets AI agents inspect projects, control music-production workflows, and connect creative tooling to LLMs | https://github.com/bschoepke/ableton-live-mcp |
+
 ### Hot AI Tools (May 2, 2026)
 
 | Tool | Features | Link |
