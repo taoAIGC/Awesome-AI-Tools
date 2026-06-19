@@ -247,6 +247,7 @@
 | **DeepSeek-TUI** | Fast-growing terminal coding agent for DeepSeek models, designed for lightweight local-first developer workflows with a clean TUI experience | https://github.com/Hmbown/DeepSeek-TUI |
 | **Semble** | Agent-oriented code search tool that uses dramatically fewer tokens than grep-plus-read workflows while staying fast and accurate on large repos | https://github.com/MinishLab/semble |
 | **Ableton Live MCP** | MCP bridge for Ableton Live that lets AI agents inspect projects, control music-production workflows, and connect creative tooling to LLMs | https://github.com/bschoepke/ableton-live-mcp |
+| **NotFair** | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | https://github.com/nowork-studio/NotFair |
 
 ### Hot AI Tools (May 2, 2026)
 
