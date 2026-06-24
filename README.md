@@ -703,6 +703,7 @@
 | Sora | OpenAI video | https://openai.com/sora |
 | Pika | Lightweight generation | https://pika.art |
 | Runway | Professional video | https://runwayml.com |
+| ImagineClip | Avatar clips and social-ready AI videos | https://imagineclip.com |
 | Luma | High quality | https://lumalabs.ai |
 | Kuaishou Kling | From Kuaishou | https://klingai.com |
 | Hailuo | ByteDance AI | https://hailuoai.com |
@@ -846,4 +847,3 @@
 - [Andrew Ng's AI Courses](https://www.deeplearning.ai/ai-for-everyone)
 
 ---
-
