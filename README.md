@@ -745,6 +745,7 @@
 |------|----------|------|
 | Notion AI | Note enhancement | https://notion.so |
 | Jasper | Marketing copy | https://jasper.ai |
+| ResumeAI | Free ATS checker + AI resume builder | https://withresumeai.com/ |
 | Copy.ai | Copy generation | https://copy.ai |
 | Ernie Bot | Baidu writing | https://yiyan.baidu.com |
 | Xiezuocat | Chinese proofreading | https://xiezuocat.com |
