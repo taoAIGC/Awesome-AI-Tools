@@ -783,6 +783,7 @@
 | **Rowboat** | Open-source AI coworker with memory - builds knowledge graph from email and meetings | https://github.com/rowboatlabs/rowboat |
 | **Onyx** | Open-source workplace AI assistant that connects docs, apps, and chat across multiple LLMs | https://github.com/onyx-dot-app/onyx |
 | **DocMason** | Agent knowledge base for complex local Office files, turning document-heavy workflows into searchable AI context | https://github.com/jetxu-llm/docmason |
+| **Orkas** | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | https://orkas.ai/?source=gh_taoaigc |
 
 ### Data Analysis
 
