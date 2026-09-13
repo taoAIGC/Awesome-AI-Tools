@@ -715,6 +715,7 @@
 | **Hailuo AI 2.0** | ByteDance's upgraded video generation with enhanced quality | https://hailuoai.com |
 | **Kling 2.0** | Kuaishou's next-gen video generation model | https://klingai.com |
 | **Suno v4** | Major update with enhanced audio quality and longer 4-minute track generation | https://suno.ai |
+| **OrkasVideoStudio** | Local-first CLI and MCP toolkit for coding agents to compose, edit, and generate videos from editable plan.json timelines. | https://github.com/Orkas-AI/Orkas-VideoStudio |
 
 ---
 
