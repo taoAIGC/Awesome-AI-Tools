@@ -836,6 +836,7 @@
 | Character.AI | Character-based AI chat | https://character.ai |
 | **Wollo.ai** | AI character chat platform | https://wollo.ai |
 | **ChatUp AI** | Free AI chatbot with character chat | https://chatup.ai |
+| Sammi AI Girlfriend | Android fictional AI character text and voice chat with customization and creative roleplay | https://sammiai.app/ |
 
 ---
 
